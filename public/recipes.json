@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "Beef Vuna with Porota",
+      "time":150,
+      "ingredients": "Add oil, meat, salt , red chili powder , turmeric powder, coriander , garlic ginger paste , sliced onion , green chili, mustard oil , dark soy sauce , mace , cinnamon , cardamom , cloves , black pepper, bay leaves  ",
+      "cost": 2000,
+      "image": "./images/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Whole BBQ Chicken",
+      "time":100,
+      "ingredients":"1 chicken whole,Olive oil to taste,Salt and pepper to taste,Barbecue sauce to taste",
+      "cost": 800,
+      "image": "./images/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jhal Chicken Curry",
+      "time":60,
+      "ingredients":"Curry is a variety of dishes originating in the Indian subcontinent. It uses a combination of spices or herbs, usually including ground turmeric, cumin, coriander, ginger, and fresh or dried chilies. In southern India, curry leaves from the curry tree are also an integral ingredient.",
+      "cost": 400,
+      "image": "./images/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Beef Steak",
+      "time":60,
+      "ingredients":"Beef steaks are usually grilled, pan-fried, or broiled. The more tender cuts from the loin and rib are cooked quickly, using dry heat, and served whole. Less tender cuts from the chuck or round are cooked with moist heat or are mechanically tenderized",
+      "cost": 1000,
+      "image": "./images/4.jpg"
+    }
+  ]

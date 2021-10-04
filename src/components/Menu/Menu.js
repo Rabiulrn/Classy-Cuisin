@@ -24,8 +24,8 @@ const Menu = () => {
                 <Link to="/about" className="items">
                   <li>About us</li>
                 </Link>
-                <Link to="contact" className="items">
-                  <li>Contact us</li>
+                <Link to="photo-gallery" className="items">
+                  <li>Photo Gallery</li>
                 </Link>
               </ul>
             </div>

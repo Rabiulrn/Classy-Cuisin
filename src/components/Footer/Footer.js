@@ -14,7 +14,10 @@ const Footer = () => {
                 <button>Send</button>
             </div>
             <div>
-                <h1>About Us</h1>
+                <h1>Follow Us</h1>
+                <a href="www.facebook.com">FaceBook</a>
+                <br />
+                <a href="www.youtube.com">YouTube</a>
             </div>
             </div>
            

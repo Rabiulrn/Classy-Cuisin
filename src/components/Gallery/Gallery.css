@@ -1,0 +1,18 @@
+.image-gallery{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    
+}
+.title-gallery{
+    text-align: center;
+    color: #000;
+}
+.single-image{
+    height: 300px;
+    width: 350px;
+    border-radius: 100px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}

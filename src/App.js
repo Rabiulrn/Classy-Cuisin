@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Recipes from "./components/Recipes/Recipes";
+import Gallery from "./components/Gallery/Gallery";
 
 
 function App() {
@@ -22,6 +23,9 @@ function App() {
              </Route>
              <Route exact path="/recipes" >
                <Recipes/>
+             </Route>
+             <Route exact path="/photo-gallery" >
+               <Gallery/>
              </Route>
              {/* <Route exact path="/employee">
                <Employee/>
