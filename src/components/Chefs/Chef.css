@@ -1,0 +1,15 @@
+.chef{
+    border: 1px solid gray;
+    border-radius: 30px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.chef-photo{
+    height: 300px;
+    width: 300px;
+    bottom: 1px solid white;
+    border-radius: 100%;
+    padding: 10px;
+}

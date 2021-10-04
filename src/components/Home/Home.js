@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Card, Button } from 'react-bootstrap';
+import Chefs from '../Chefs/Chefs';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import "./Home.css"
@@ -37,7 +38,7 @@ const Home = () => {
                
                 
             </div>
-            
+            <Chefs></Chefs>
             <Footer></Footer>
         </div>
     );
