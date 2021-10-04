@@ -5,6 +5,7 @@ import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Recipes from "./components/Recipes/Recipes";
 import Gallery from "./components/Gallery/Gallery";
+import NotFound from "./components/NotFound/NotFound";
 
 
 function App() {
@@ -27,15 +28,10 @@ function App() {
              <Route exact path="/photo-gallery" >
                <Gallery/>
              </Route>
-             {/* <Route exact path="/employee">
-               <Employee/>
-             </Route>
-            <Route exact path="/employee/:id">
-                <SingleEmployee/>
-              </Route>
+             
              <Route path="*">
                <NotFound/>
-             </Route> */}
+             </Route> 
               
       </Switch>
 
