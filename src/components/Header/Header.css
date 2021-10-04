@@ -1,0 +1,19 @@
+.banner {
+    background-image: url("../../images/Header-photo.jpg"),
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 500px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .title-section{
+    padding-left: 200px;
+  }
+  .title {
+    color: white;
+    font-weight: bold;
+    font-size: 59px;
+  }
